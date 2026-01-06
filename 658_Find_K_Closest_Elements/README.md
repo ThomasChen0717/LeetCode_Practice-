@@ -81,12 +81,11 @@ Use binary search to directly find the left boundary of the result array.
 - Consider `mid` and `mid + k`. Only one of them could possibly be in the final answer. 
     - If `mid` is closer to `x` than `mid + k`, then the left boundary must be before `mid + k`. Otherwise, the left boundary must be after `mid`. 
 
-
 ### Complexity Analysis
 Given `N` as the length of `arr`,
-- **Time Complexity:** `O(log N + k)`
+- **Time Complexity:** `O(log (N-k) + k)`
     
-    - Binary search takes `O(log N)` time.
+    - Binary search takes `O(log (N-k))` time.
     - Sliding window takes `O(k)` time.
 - **Space Complexity:** `O(1)`
 ---

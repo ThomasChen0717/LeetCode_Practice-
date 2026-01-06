@@ -22,46 +22,25 @@ Output: 10
 Explanation: [0,0,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1]
 ```
 
-
-
 ## Constraints
-
-- <Constraint 1>
-- <Constraint 2>
-- <Constraint 3>
+- `1 <= nums.length <= 10^5`
+- `nums[i]` is either `0` or `1`.
+- `0 <= k <= nums.length`
 
 ---
 
-## Approach
+## Approach 1: Sliding Window
 
 ### Intuition
+We use a sliding window approach to find the maximum number of consecutive 1's. The window expands by including new elements and contracts when the number of 0's exceeds `k`.
 
-<Describe how you initially thought about the problem and why this direction makes sense.  
-Mention why certain naive approaches may fail or be inefficient.>
-
-### Key Observations
-
-- <Observation 1>
-- <Observation 2>
-- <Observation 3>
-
-### Algorithm
-
-1. <Step 1>
-2. <Step 2>
-3. <Step 3>
-
-<If applicable, describe invariants or key properties maintained by the algorithm.>
-
-### Correctness Argument (Optional but encouraged)
-
-<Explain why the algorithm always produces the correct result.  
-This can be informal but should clearly reference invariants or decisions made.>
+### Correctness Argument 
+This always give the correct result because the window always expands to include more 1's and contracts to ensure the number of 0's does not exceed `k`. It keeps the maximum number of consecutive 1's found so far.
 
 ### Complexity Analysis
-
-- **Time Complexity:** O(...)
-- **Space Complexity:** O(...)
+n is the length of the array `nums`.
+- **Time Complexity:** O(n)
+- **Space Complexity:** O(1)
 
 ---
 
