@@ -39,8 +39,8 @@ This always give the correct result because the window always expands to include
 
 ### Complexity Analysis
 n is the length of the array `nums`.
-- **Time Complexity:** O(n)
-- **Space Complexity:** O(1)
+- **Time Complexity:** `O(n)`
+- **Space Complexity:** `O(1)`  
 
 ---
 
