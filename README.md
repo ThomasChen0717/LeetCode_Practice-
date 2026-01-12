@@ -14,6 +14,8 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | # | Problem | Topics | Difficulty |
 |---|--------|--------|------------|
 | 1 | Two Sum | Array, Hash Table | <span style="color:#2ecc71"><b>Easy</b></span> |
+| 2 | Add Two Numbers | Linked List, Math | <span style="color:#f39c12"><b>Medium</b></span> | 
+| 4 | Median of Two Sorted Arrays | Array, Binary Search, Divide and Conquer | <span style="color:#e74c3c"><b>Hard</b></span> |
 | 75 | Sort Colors | Array, Sorting, Three Pointers | <span style="color:#f39c12"><b>Medium</b></span> |
 | 118 | Pascal's Triangle | Array, Dynamic Programming | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 345 | Reverse Vowels of a String | String, Two Pointers | <span style="color:#2ecc71"><b>Easy</b></span> |

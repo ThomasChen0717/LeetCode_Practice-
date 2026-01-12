@@ -54,8 +54,8 @@ This can be informal but should clearly reference invariants or decisions made.>
 
 ### Complexity Analysis
 
-- **Time Complexity:** O(...)
-- **Space Complexity:** O(...)
+- **Time Complexity:** `O(...)`
+- **Space Complexity:** `O(...)`
 
 ---
 
