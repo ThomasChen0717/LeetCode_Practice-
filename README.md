@@ -14,11 +14,13 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | # | Problem | Topics | Difficulty |
 |---|--------|--------|------------|
 | 1 | Two Sum | Array, Hash Table | <span style="color:#2ecc71"><b>Easy</b></span> |
-| 2 | Add Two Numbers | Linked List, Math | <span style="color:#f39c12"><b>Medium</b></span> | 
+| 2 | Add Two Numbers | Linked List, Math | <span style="color:#f39c12"><b>Medium</b></span> |
+| 3 | Longest Substring Without Repeating Characters | String, Sliding Window | <span style="color:#f39c12"><b>Medium</b></span> |
 | 4 | Median of Two Sorted Arrays | Array, Binary Search, Divide and Conquer | <span style="color:#e74c3c"><b>Hard</b></span> |
 | 42 | Trapping Rain Water | Array, Two Pointers, Dynamic Programming, Stack | <span style="color:#e74c3c"><b>Hard</b></span> |
 | 75 | Sort Colors | Array, Sorting, Three Pointers | <span style="color:#f39c12"><b>Medium</b></span> |
 | 118 | Pascal's Triangle | Array, Dynamic Programming | <span style="color:#2ecc71"><b>Easy</b></span> |
+| 128 | Longest Consecutive Sequence | Array, HashSet | <span style="color:#f39c12"><b>Medium</b></span> |
 | 345 | Reverse Vowels of a String | String, Two Pointers | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 351 | Android Unlock Patterns | Backtracking, DP/Memoization | <span style="color:#f39c12"><b>Medium</b></span> |
 | 359 | Logger Rate Limiter | Hash Table, Queue, Set | <span style="color:#2ecc71"><b>Easy</b></span> |
@@ -35,7 +37,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 977 | Squares of a Sorted Array | Array, Two Pointers, Sorting | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 1004 | Max Consecutive Ones III | Array, Sliding Window | <span style="color:#f39c12"><b>Medium</b></span> |
 | 1161 | Maximum Level Sum of a Binary Tree | Binary Tree, BFS, DFS | <span style="color:#f39c12"><b>Medium</b></span> |
-| 1244 | Design A Leaderboard | Hash Table, Heap (Priority Queue), TreeMap | <span style="color:#f39c12"><b>Medium</b></span> |
+| 1244 | Design A Leaderboard | Hash Table, Heap(Priority Queue), TreeMap | <span style="color:#f39c12"><b>Medium</b></span> |
 | 1975 | Maximum Matrix Sum | Math | <span style="color:#f39c12"><b>Medium</b></span> |
 | 2396 | Strictly Palindromic Number | Math | <span style="color:#f39c12"><b>Medium</b></span> |
 | 3074 | Apple Redistribution into Boxes | Array, Greedy | <span style="color:#2ecc71"><b>Easy</b></span> |
