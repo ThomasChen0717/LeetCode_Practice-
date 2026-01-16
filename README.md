@@ -18,7 +18,11 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 3 | Longest Substring Without Repeating Characters | String, Sliding Window | <span style="color:#f39c12"><b>Medium</b></span> |
 | 4 | Median of Two Sorted Arrays | Array, Binary Search, Divide and Conquer | <span style="color:#e74c3c"><b>Hard</b></span> |
 | 5 | Longest Palindromic Substring | String, Dynamic Programming, Expand Around Center | <span style="color:#f39c12"><b>Medium</b></span> |
+| 7 | Reverse Integer | Math, digit manipulation | <span style="color:#f39c12"><b>Medium</b></span> |
+| 11 | Container With Most Water | Array, Two Pointers | <span style="color:#f39c12"><b>Medium</b></span> |
 | 42 | Trapping Rain Water | Array, Two Pointers, Dynamic Programming, Stack | <span style="color:#e74c3c"><b>Hard</b></span> |
+| 54 | Spiral Matrix |  Matrix, DFS | <span style="color:#f39c12"><b>Medium</b></span> |
+| 56 | Merge Intervals | Array, Sorting, Graph | <span style="color:#f39c12"><b>Medium</b></span> |
 | 75 | Sort Colors | Array, Sorting, Three Pointers | <span style="color:#f39c12"><b>Medium</b></span> |
 | 118 | Pascal's Triangle | Array, Dynamic Programming | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 128 | Longest Consecutive Sequence | Array, HashSet | <span style="color:#f39c12"><b>Medium</b></span> |
@@ -30,6 +34,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 443 | String Compression | Array, String, Math | <span style="color:#f39c12"><b>Medium</b></span> |
 | 518 | Coin Change II | Dynamic Programming | <span style="color:#f39c12"><b>Medium</b></span> |
 | 525 | Contiguous Array | Prefix Sum, HashMap | <span style="color:#f39c12"><b>Medium</b></span> |
+| 560 | Subarray Sum Equals K | Array, Prefix Sum, HashMap | <span style="color:#f39c12"><b>Medium</b></span> |
 | 658 | Find K Closest Elements | Binary Search, Sliding Window, Sorting | <span style="color:#f39c12"><b>Medium</b></span> |
 | 678 | Valid Parenthesis String | Stack, Two Pointers, Dynamic Programming | <span style="color:#f39c12"><b>Medium</b></span> |
 | 728 | Self Dividing Numbers | Math, Brute Force | <span style="color:#2ecc71"><b>Easy</b></span> |
