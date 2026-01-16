@@ -17,6 +17,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 2 | Add Two Numbers | Linked List, Math | <span style="color:#f39c12"><b>Medium</b></span> |
 | 3 | Longest Substring Without Repeating Characters | String, Sliding Window | <span style="color:#f39c12"><b>Medium</b></span> |
 | 4 | Median of Two Sorted Arrays | Array, Binary Search, Divide and Conquer | <span style="color:#e74c3c"><b>Hard</b></span> |
+| 5 | Longest Palindromic Substring | String, Dynamic Programming, Expand Around Center | <span style="color:#f39c12"><b>Medium</b></span> |
 | 42 | Trapping Rain Water | Array, Two Pointers, Dynamic Programming, Stack | <span style="color:#e74c3c"><b>Hard</b></span> |
 | 75 | Sort Colors | Array, Sorting, Three Pointers | <span style="color:#f39c12"><b>Medium</b></span> |
 | 118 | Pascal's Triangle | Array, Dynamic Programming | <span style="color:#2ecc71"><b>Easy</b></span> |
