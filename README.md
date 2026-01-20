@@ -23,11 +23,15 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 15 | 3Sum | Array, Two Pointers, Sorting. Hash Map, Hash Set | <span style="color:#f39c12"><b>Medium</b></span> |
 | 31 | Next Permutation | Array, Math | <span style="color:#f39c12"><b>Medium</b></span> |
 | 42 | Trapping Rain Water | Array, Two Pointers, Dynamic Programming, Stack | <span style="color:#e74c3c"><b>Hard</b></span> |
+| 45 | Jump Game II | Array, Dynamic Programming, Greedy | <span style="color:#f39c12"><b>Medium</b></span> |
 | 54 | Spiral Matrix |  Matrix, DFS | <span style="color:#f39c12"><b>Medium</b></span> |
 | 56 | Merge Intervals | Array, Sorting, Graph | <span style="color:#f39c12"><b>Medium</b></span> |
+| 72 | Edit Distance | String, Dynamic Programming, Recursion | <span style="color:#e74c3c"><b>Hard</b></span> |
 | 75 | Sort Colors | Array, Sorting, Three Pointers | <span style="color:#f39c12"><b>Medium</b></span> |
 | 118 | Pascal's Triangle | Array, Dynamic Programming | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 128 | Longest Consecutive Sequence | Array, HashSet | <span style="color:#f39c12"><b>Medium</b></span> |
+| 167 | Two Sum II - Input Array Is Sorted | Array, Two Pointers | <span style="color:#f39c12"><b>Medium</b></span> |
+| 189 | Rotate Array | Array, Math, Two Pointers | <span style="color:#f39c12"><b>Medium</b></span> |
 | 198 | House Robber | Dynamic Programming, Recursion, Memoization | <span style="color:#f39c12"><b>Medium</b></span> |
 | 345 | Reverse Vowels of a String | String, Two Pointers | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 351 | Android Unlock Patterns | Backtracking, DP/Memoization | <span style="color:#f39c12"><b>Medium</b></span> |
