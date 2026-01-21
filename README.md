@@ -46,6 +46,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 678 | Valid Parenthesis String | Stack, Two Pointers, Dynamic Programming | <span style="color:#f39c12"><b>Medium</b></span> |
 | 728 | Self Dividing Numbers | Math, Brute Force | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 778 | Swim in Rising Water | Dijkstra's Algorithm | <span style="color:#e74c3c"><b>Hard</b></span> |
+| 912 | Sort an Array | Array, Sorting | <span style="color:#f39c12"><b>Medium</b></span> |
 | 944 | Delete Columns to Make Sorted | Array, String, Brute Force Matrix Traversal | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 977 | Squares of a Sorted Array | Array, Two Pointers, Sorting | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 1004 | Max Consecutive Ones III | Array, Sliding Window | <span style="color:#f39c12"><b>Medium</b></span> |
