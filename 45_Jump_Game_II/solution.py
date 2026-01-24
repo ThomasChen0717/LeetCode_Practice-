@@ -5,7 +5,7 @@ class Solution:
         cur_end, cur_far = 0, 0 
 
         for i in range(n-1): 
-            if cur_end == n-1: return ans
+            if cur_end >= n-1: return ans
             
             cur_far = max(cur_far, i + nums[i]) 
 
