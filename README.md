@@ -18,6 +18,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 3 | Longest Substring Without Repeating Characters | String, Sliding Window | <span style="color:#f39c12"><b>Medium</b></span> |
 | 4 | Median of Two Sorted Arrays | Array, Binary Search, Divide and Conquer | <span style="color:#e74c3c"><b>Hard</b></span> |
 | 5 | Longest Palindromic Substring | String, Dynamic Programming, Expand Around Center | <span style="color:#f39c12"><b>Medium</b></span> |
+| 6 | Zigzag Conversion | String | <span style="color:#f39c12"><b>Medium</b></span> |
 | 7 | Reverse Integer | Math, digit manipulation | <span style="color:#f39c12"><b>Medium</b></span> |
 | 11 | Container With Most Water | Array, Two Pointers | <span style="color:#f39c12"><b>Medium</b></span> |
 | 15 | 3Sum | Array, Two Pointers, Sorting. Hash Map, Hash Set | <span style="color:#f39c12"><b>Medium</b></span> |

@@ -45,21 +45,34 @@ Output: "A"
 
 ## Constraints
 
-- 
+- `1 <= s.length <= 1000`
+- `s` consists of English letters (lower-case and upper-case), `','` and `'.'`.
+- `1 <= numRows <= 1000`
 
 ---
 
-## Approach
+## Approach 1: Following the Zigzag Pattern
 
 ### Intuition
 
-<Describe how you initially thought about the problem and why this direction makes sense.  
-Mention why certain naive approaches may fail or be inefficient.>
+We separate the pattern into sections and calculate the number of characters in each section, as well as the total number of columns in each section. We then iterate through the string, populating a matrix by the zigzag pattern. Finally, we concatenate the rows of the matrix to get the final result. 
 
 ### Complexity Analysis
+Let `n` be the length of the string `s`, and `numRows` be the number of rows.
+- **Time Complexity:** `O(n * numRows)`
+- **Space Complexity:** `O(n * numRows)`
 
-- **Time Complexity:** `O(...)`
-- **Space Complexity:** `O(...)`
+---
+
+## Approach 2: String Traversal
+
+### Intuition
+
+We find that for each row in the zigzag pattern, we can find a pattern to jump to the next index. For example, for the first row, we jump to the next index by `2 * numRows - 2` characters, which is exactly the length of each section. For the second row, we jump to the next index by `length of section - 2 * currRow` characters, and so on.
+
+### Complexity Analysis
+- **Time Complexity:** `O(n)`
+- **Space Complexity:** `O(1)`
 
 ---
 
