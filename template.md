@@ -33,25 +33,6 @@ Output: [1,2,3,4]
 <Describe how you initially thought about the problem and why this direction makes sense.  
 Mention why certain naive approaches may fail or be inefficient.>
 
-### Key Observations
-
-- <Observation 1>
-- <Observation 2>
-- <Observation 3>
-
-### Algorithm
-
-1. <Step 1>
-2. <Step 2>
-3. <Step 3>
-
-<If applicable, describe invariants or key properties maintained by the algorithm.>
-
-### Correctness Argument (Optional but encouraged)
-
-<Explain why the algorithm always produces the correct result.  
-This can be informal but should clearly reference invariants or decisions made.>
-
 ### Complexity Analysis
 
 - **Time Complexity:** `O(...)`

@@ -40,7 +40,9 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 189 | Rotate Array | Array, Math, Two Pointers | <span style="color:#f39c12"><b>Medium</b></span> |
 | 198 | House Robber | Dynamic Programming, Recursion, Memoization | <span style="color:#f39c12"><b>Medium</b></span> |
 | 210 | Course Schedule II | Graph, Topological Sort, DFS, BFS | <span style="color:#f39c12"><b>Medium</b></span> |
+| 215 | Kth Largest Element in an Array | Array, Sorting, Quick Select, Counting Sort | <span style="color:#f39c12"><b>Medium</b></span> |
 | 236 | Lowest Common Ancestor of a Binary Tree | Binary Tree, DFS | <span style="color:#f39c12"><b>Medium</b></span> |
+| 253 | Meeting Rooms II | Heap, Sorting, Chronological Ordering | <span style="color:#f39c12"><b>Medium</b></span> |
 | 345 | Reverse Vowels of a String | String, Two Pointers | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 351 | Android Unlock Patterns | Backtracking, DP/Memoization | <span style="color:#f39c12"><b>Medium</b></span> |
 | 359 | Logger Rate Limiter | Hash Table, Queue, Set | <span style="color:#2ecc71"><b>Easy</b></span> |
@@ -53,6 +55,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 658 | Find K Closest Elements | Binary Search, Sliding Window, Sorting | <span style="color:#f39c12"><b>Medium</b></span> |
 | 678 | Valid Parenthesis String | Stack, Two Pointers, Dynamic Programming | <span style="color:#f39c12"><b>Medium</b></span> |
 | 728 | Self Dividing Numbers | Math, Brute Force | <span style="color:#2ecc71"><b>Easy</b></span> |
+| 756 | Pyramid Transition Matrix | Backtracking, Dynamic Programming | <span style="color:#f39c12"><b>Medium</b></span> |
 | 778 | Swim in Rising Water | Dijkstra's Algorithm | <span style="color:#e74c3c"><b>Hard</b></span> |
 | 912 | Sort an Array | Array, Sorting | <span style="color:#f39c12"><b>Medium</b></span> |
 | 944 | Delete Columns to Make Sorted | Array, String, Brute Force Matrix Traversal | <span style="color:#2ecc71"><b>Easy</b></span> |
