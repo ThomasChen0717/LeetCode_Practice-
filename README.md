@@ -58,16 +58,21 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 728 | Self Dividing Numbers | Math, Brute Force | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 756 | Pyramid Transition Matrix | Backtracking, Dynamic Programming | <span style="color:#f39c12"><b>Medium</b></span> |
 | 778 | Swim in Rising Water | Dijkstra's Algorithm | <span style="color:#e74c3c"><b>Hard</b></span> |
+| 840 | Magic Squares in Grid | Array, Matrix, Simulation | <span style="color:#f39c12"><b>Medium</b></span> |
+| 875 | Koko Eating Bananas | Array, Binary Search | <span style="color:#f39c12"><b>Medium</b></span> |
 | 912 | Sort an Array | Array, Sorting | <span style="color:#f39c12"><b>Medium</b></span> |
 | 944 | Delete Columns to Make Sorted | Array, String, Brute Force Matrix Traversal | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 977 | Squares of a Sorted Array | Array, Two Pointers, Sorting | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 1004 | Max Consecutive Ones III | Array, Sliding Window | <span style="color:#f39c12"><b>Medium</b></span> |
+| 1143 | Longest Common Subsequence | Dynamic Programming, Memoization | <span style="color:#f39c12"><b>Medium</b></span> |
 | 1161 | Maximum Level Sum of a Binary Tree | Binary Tree, BFS, DFS | <span style="color:#f39c12"><b>Medium</b></span> |
 | 1244 | Design A Leaderboard | Hash Table, Heap(Priority Queue), TreeMap | <span style="color:#f39c12"><b>Medium</b></span> |
 | 1339 | Maximum Product of Splitted Binary Tree | Bit Manipulation, Binary Tree, DFS | <span style="color:#f39c12"><b>Medium</b></span> |
 | 1975 | Maximum Matrix Sum | Math | <span style="color:#f39c12"><b>Medium</b></span> |
 | 2396 | Strictly Palindromic Number | Math | <span style="color:#f39c12"><b>Medium</b></span> |
+| 2975 | Maximum Square Area by Removing Fences From a Field | Array, Math, Enumeration | <span style="color:#f39c12"><b>Medium</b></span> |
 | 3074 | Apple Redistribution into Boxes | Array, Greedy | <span style="color:#2ecc71"><b>Easy</b></span> |
+| 3453 | Separate Squares I | Array, Math, Sorting, Binary Search, Scan Line | <span style="color:#f39c12"><b>Medium</b></span> |
 
 
 
