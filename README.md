@@ -21,6 +21,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 6 | Zigzag Conversion | String | <span style="color:#f39c12"><b>Medium</b></span> |
 | 7 | Reverse Integer | Math, digit manipulation | <span style="color:#f39c12"><b>Medium</b></span> |
 | 11 | Container With Most Water | Array, Two Pointers | <span style="color:#f39c12"><b>Medium</b></span> |
+| 14 | Longest Common Prefix | String, Array | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 15 | 3Sum | Array, Two Pointers, Sorting. Hash Map, Hash Set | <span style="color:#f39c12"><b>Medium</b></span> |
 | 19 | Remove Nth Node From End of List | Linked List, Two Pointers | <span style="color:#f39c12"><b>Medium</b></span> |
 | 31 | Next Permutation | Array, Math | <span style="color:#f39c12"><b>Medium</b></span> |
@@ -33,9 +34,12 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 54 | Spiral Matrix |  Matrix, DFS | <span style="color:#f39c12"><b>Medium</b></span> |
 | 55 | Jump Game | Array, Dynamic Programming, Greedy | <span style="color:#f39c12"><b>Medium</b></span> |
 | 56 | Merge Intervals | Array, Sorting, Graph | <span style="color:#f39c12"><b>Medium</b></span> |
+| 66 | Plus One | Array, Math | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 72 | Edit Distance | String, Dynamic Programming, Recursion | <span style="color:#e74c3c"><b>Hard</b></span> |
 | 75 | Sort Colors | Array, Sorting, Three Pointers | <span style="color:#f39c12"><b>Medium</b></span> |
 | 78 | Subsets | Array, Backtracking, Bitmasking | <span style="color:#f39c12"><b>Medium</b></span> |
+| 84 | Largest Rectangle in Histogram | Array, Stack | <span style="color:#e74c3c"><b>Hard</b></span> |
+| 85 | Maximal Rectangle | Array, Dynamic Programming, Stack | <span style="color:#e74c3c"><b>Hard</b></span> |
 | 118 | Pascal's Triangle | Array, Dynamic Programming | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 121 | Best Time to Buy and Sell Stock | Array | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 128 | Longest Consecutive Sequence | Array, HashSet | <span style="color:#f39c12"><b>Medium</b></span> |
