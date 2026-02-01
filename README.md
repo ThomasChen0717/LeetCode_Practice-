@@ -20,10 +20,12 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 5 | Longest Palindromic Substring | String, Dynamic Programming, Expand Around Center | <span style="color:#f39c12"><b>Medium</b></span> |
 | 6 | Zigzag Conversion | String | <span style="color:#f39c12"><b>Medium</b></span> |
 | 7 | Reverse Integer | Math, digit manipulation | <span style="color:#f39c12"><b>Medium</b></span> |
+| 9 | Palindrome Number | Math | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 11 | Container With Most Water | Array, Two Pointers | <span style="color:#f39c12"><b>Medium</b></span> |
 | 14 | Longest Common Prefix | String, Array | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 15 | 3Sum | Array, Two Pointers, Sorting. Hash Map, Hash Set | <span style="color:#f39c12"><b>Medium</b></span> |
 | 19 | Remove Nth Node From End of List | Linked List, Two Pointers | <span style="color:#f39c12"><b>Medium</b></span> |
+| 20 | Valid Parentheses | String, Stack | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 31 | Next Permutation | Array, Math | <span style="color:#f39c12"><b>Medium</b></span> |
 | 33 | Search in Rotated Sorted Array | Array, Binary Search | <span style="color:#f39c12"><b>Medium</b></span> |
 | 34 | Find First and Last Position of Element in Sorted Array | Array, Binary Search | <span style="color:#f39c12"><b>Medium</b></span> |
@@ -51,7 +53,9 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 210 | Course Schedule II | Graph, Topological Sort, DFS, BFS | <span style="color:#f39c12"><b>Medium</b></span> |
 | 215 | Kth Largest Element in an Array | Array, Sorting, Quick Select, Counting Sort | <span style="color:#f39c12"><b>Medium</b></span> |
 | 236 | Lowest Common Ancestor of a Binary Tree | Binary Tree, DFS | <span style="color:#f39c12"><b>Medium</b></span> |
+| 242 | Valid Anagram | String, Sorting, Hash Table | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 253 | Meeting Rooms II | Heap, Sorting, Chronological Ordering | <span style="color:#f39c12"><b>Medium</b></span> |
+| 268 | Missing Number | Array, Math, Bit Manipulation, Sorting, HashSet | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 345 | Reverse Vowels of a String | String, Two Pointers | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 351 | Android Unlock Patterns | Backtracking, DP/Memoization | <span style="color:#f39c12"><b>Medium</b></span> |
 | 359 | Logger Rate Limiter | Hash Table, Queue, Set | <span style="color:#2ecc71"><b>Easy</b></span> |
@@ -76,6 +80,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 1161 | Maximum Level Sum of a Binary Tree | Binary Tree, BFS, DFS | <span style="color:#f39c12"><b>Medium</b></span> |
 | 1244 | Design A Leaderboard | Hash Table, Heap(Priority Queue), TreeMap | <span style="color:#f39c12"><b>Medium</b></span> |
 | 1339 | Maximum Product of Splitted Binary Tree | Bit Manipulation, Binary Tree, DFS | <span style="color:#f39c12"><b>Medium</b></span> |
+| 1929 | Concatenation of Array | Array | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 1975 | Maximum Matrix Sum | Math | <span style="color:#f39c12"><b>Medium</b></span> |
 | 2396 | Strictly Palindromic Number | Math | <span style="color:#f39c12"><b>Medium</b></span> |
 | 2975 | Maximum Square Area by Removing Fences From a Field | Array, Math, Enumeration | <span style="color:#f39c12"><b>Medium</b></span> |
