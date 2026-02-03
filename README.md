@@ -33,6 +33,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 42 | Trapping Rain Water | Array, Two Pointers, Dynamic Programming, Stack | <span style="color:#e74c3c"><b>Hard</b></span> |
 | 45 | Jump Game II | Array, Dynamic Programming, Greedy | <span style="color:#f39c12"><b>Medium</b></span> |
 | 46 | Permutations | Array, Backtracking | <span style="color:#f39c12"><b>Medium</b></span> |
+| 53 | Maximum Subarray | Array, Dynamic Programming, Divide and Conquer | <span style="color:#f39c12"><b>Medium</b></span> |
 | 54 | Spiral Matrix |  Matrix, DFS | <span style="color:#f39c12"><b>Medium</b></span> |
 | 55 | Jump Game | Array, Dynamic Programming, Greedy | <span style="color:#f39c12"><b>Medium</b></span> |
 | 56 | Merge Intervals | Array, Sorting, Graph | <span style="color:#f39c12"><b>Medium</b></span> |
@@ -50,6 +51,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 167 | Two Sum II - Input Array Is Sorted | Array, Two Pointers | <span style="color:#f39c12"><b>Medium</b></span> |
 | 189 | Rotate Array | Array, Math, Two Pointers | <span style="color:#f39c12"><b>Medium</b></span> |
 | 198 | House Robber | Dynamic Programming, Recursion, Memoization | <span style="color:#f39c12"><b>Medium</b></span> |
+| 200 | Number of Islands | Graph, DFS, BFS, Union Find | <span style="color:#f39c12"><b>Medium</b></span> |
 | 210 | Course Schedule II | Graph, Topological Sort, DFS, BFS | <span style="color:#f39c12"><b>Medium</b></span> |
 | 215 | Kth Largest Element in an Array | Array, Sorting, Quick Select, Counting Sort | <span style="color:#f39c12"><b>Medium</b></span> |
 | 236 | Lowest Common Ancestor of a Binary Tree | Binary Tree, DFS | <span style="color:#f39c12"><b>Medium</b></span> |
@@ -80,6 +82,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 1161 | Maximum Level Sum of a Binary Tree | Binary Tree, BFS, DFS | <span style="color:#f39c12"><b>Medium</b></span> |
 | 1244 | Design A Leaderboard | Hash Table, Heap(Priority Queue), TreeMap | <span style="color:#f39c12"><b>Medium</b></span> |
 | 1339 | Maximum Product of Splitted Binary Tree | Bit Manipulation, Binary Tree, DFS | <span style="color:#f39c12"><b>Medium</b></span> |
+| 1877 | Minimize Maximum Pair Sum in Array | Array, Sorting | <span style="color:#f39c12"><b>Medium</b></span> |
 | 1929 | Concatenation of Array | Array | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 1975 | Maximum Matrix Sum | Math | <span style="color:#f39c12"><b>Medium</b></span> |
 | 2396 | Strictly Palindromic Number | Math | <span style="color:#f39c12"><b>Medium</b></span> |
