@@ -24,6 +24,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 11 | Container With Most Water | Array, Two Pointers | <span style="color:#f39c12"><b>Medium</b></span> |
 | 14 | Longest Common Prefix | String, Array | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 15 | 3Sum | Array, Two Pointers, Sorting. Hash Map, Hash Set | <span style="color:#f39c12"><b>Medium</b></span> |
+| 16 | 3Sum Closest | Array, Two Pointers, Sorting | <span style="color:#f39c12"><b>Medium</b></span> |
 | 19 | Remove Nth Node From End of List | Linked List, Two Pointers | <span style="color:#f39c12"><b>Medium</b></span> |
 | 20 | Valid Parentheses | String, Stack | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 31 | Next Permutation | Array, Math | <span style="color:#f39c12"><b>Medium</b></span> |
