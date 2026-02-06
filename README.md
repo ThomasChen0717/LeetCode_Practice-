@@ -34,6 +34,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 42 | Trapping Rain Water | Array, Two Pointers, Dynamic Programming, Stack | <span style="color:#e74c3c"><b>Hard</b></span> |
 | 45 | Jump Game II | Array, Dynamic Programming, Greedy | <span style="color:#f39c12"><b>Medium</b></span> |
 | 46 | Permutations | Array, Backtracking | <span style="color:#f39c12"><b>Medium</b></span> |
+| 49 | Group Anagrams | Array, Hash Table, String, Sorting | <span style="color:#f39c12"><b>Medium</b></span> |
 | 53 | Maximum Subarray | Array, Dynamic Programming, Divide and Conquer | <span style="color:#f39c12"><b>Medium</b></span> |
 | 54 | Spiral Matrix |  Matrix, DFS | <span style="color:#f39c12"><b>Medium</b></span> |
 | 55 | Jump Game | Array, Dynamic Programming, Greedy | <span style="color:#f39c12"><b>Medium</b></span> |
@@ -44,6 +45,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 78 | Subsets | Array, Backtracking, Bitmasking | <span style="color:#f39c12"><b>Medium</b></span> |
 | 84 | Largest Rectangle in Histogram | Array, Stack | <span style="color:#e74c3c"><b>Hard</b></span> |
 | 85 | Maximal Rectangle | Array, Dynamic Programming, Stack | <span style="color:#e74c3c"><b>Hard</b></span> |
+| 97 | Interleaving String | String, Dynamic Programming | <span style="color:#f39c12"><b>Medium</b></span> |
 | 118 | Pascal's Triangle | Array, Dynamic Programming | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 121 | Best Time to Buy and Sell Stock | Array | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 128 | Longest Consecutive Sequence | Array, HashSet | <span style="color:#f39c12"><b>Medium</b></span> |
