@@ -59,6 +59,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 215 | Kth Largest Element in an Array | Array, Sorting, Quick Select, Counting Sort | <span style="color:#f39c12"><b>Medium</b></span> |
 | 236 | Lowest Common Ancestor of a Binary Tree | Binary Tree, DFS | <span style="color:#f39c12"><b>Medium</b></span> |
 | 242 | Valid Anagram | String, Sorting, Hash Table | <span style="color:#2ecc71"><b>Easy</b></span> |
+| 249 | Group Shifted Strings | String, Hash Map | <span style="color:#f39c12"><b>Medium</b></span> |
 | 253 | Meeting Rooms II | Heap, Sorting, Chronological Ordering | <span style="color:#f39c12"><b>Medium</b></span> |
 | 268 | Missing Number | Array, Math, Bit Manipulation, Sorting, HashSet | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 345 | Reverse Vowels of a String | String, Two Pointers | <span style="color:#2ecc71"><b>Easy</b></span> |
