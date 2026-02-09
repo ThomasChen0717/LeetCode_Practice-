@@ -51,6 +51,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 128 | Longest Consecutive Sequence | Array, HashSet | <span style="color:#f39c12"><b>Medium</b></span> |
 | 139 | Word Break | String, Dynamic Programming, Trie, Breadth-First Search | <span style="color:#f39c12"><b>Medium</b></span> |
 | 146 | LRU Cache | Design, Hash Table, Doubly Linked List | <span style="color:#f39c12"><b>Medium</b></span> |
+| 155 | Min Stack | Stack, Design | <span style="color:#f39c12"><b>Medium</b></span> |
 | 167 | Two Sum II - Input Array Is Sorted | Array, Two Pointers | <span style="color:#f39c12"><b>Medium</b></span> |
 | 189 | Rotate Array | Array, Math, Two Pointers | <span style="color:#f39c12"><b>Medium</b></span> |
 | 198 | House Robber | Dynamic Programming, Recursion, Memoization | <span style="color:#f39c12"><b>Medium</b></span> |
@@ -62,7 +63,9 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 249 | Group Shifted Strings | String, Hash Map | <span style="color:#f39c12"><b>Medium</b></span> |
 | 253 | Meeting Rooms II | Heap, Sorting, Chronological Ordering | <span style="color:#f39c12"><b>Medium</b></span> |
 | 268 | Missing Number | Array, Math, Bit Manipulation, Sorting, HashSet | <span style="color:#2ecc71"><b>Easy</b></span> |
+| 300 | Longest Increasing Subsequence | Array, Dynamic Programming, Binary Search | <span style="color:#f39c12"><b>Medium</b></span> |
 | 345 | Reverse Vowels of a String | String, Two Pointers | <span style="color:#2ecc71"><b>Easy</b></span> |
+| 347 | Top K Frequent Elements | Array, Hash Table, Heap, Quick Select | <span style="color:#f39c12"><b>Medium</b></span> |
 | 351 | Android Unlock Patterns | Backtracking, DP/Memoization | <span style="color:#f39c12"><b>Medium</b></span> |
 | 359 | Logger Rate Limiter | Hash Table, Queue, Set | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 394 | Decode String | String, Stack, Recursion | <span style="color:#f39c12"><b>Medium</b></span> |
@@ -86,6 +89,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 1161 | Maximum Level Sum of a Binary Tree | Binary Tree, BFS, DFS | <span style="color:#f39c12"><b>Medium</b></span> |
 | 1244 | Design A Leaderboard | Hash Table, Heap(Priority Queue), TreeMap | <span style="color:#f39c12"><b>Medium</b></span> |
 | 1339 | Maximum Product of Splitted Binary Tree | Bit Manipulation, Binary Tree, DFS | <span style="color:#f39c12"><b>Medium</b></span> |
+| 1653 | Minimum Deletions to Make String Balanced | String, Dynamic Programming | <span style="color:#f39c12"><b>Medium</b></span> |
 | 1877 | Minimize Maximum Pair Sum in Array | Array, Sorting | <span style="color:#f39c12"><b>Medium</b></span> |
 | 1929 | Concatenation of Array | Array | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 1975 | Maximum Matrix Sum | Math | <span style="color:#f39c12"><b>Medium</b></span> |
