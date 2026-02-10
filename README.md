@@ -76,9 +76,11 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 560 | Subarray Sum Equals K | Array, Prefix Sum, HashMap | <span style="color:#f39c12"><b>Medium</b></span> |
 | 658 | Find K Closest Elements | Binary Search, Sliding Window, Sorting | <span style="color:#f39c12"><b>Medium</b></span> |
 | 678 | Valid Parenthesis String | Stack, Two Pointers, Dynamic Programming | <span style="color:#f39c12"><b>Medium</b></span> |
+| 721 | Accounts Merge | Union Find, Graph, DFS | <span style="color:#f39c12"><b>Medium</b></span> |
 | 728 | Self Dividing Numbers | Math, Brute Force | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 756 | Pyramid Transition Matrix | Backtracking, Dynamic Programming | <span style="color:#f39c12"><b>Medium</b></span> |
 | 778 | Swim in Rising Water | Dijkstra's Algorithm | <span style="color:#e74c3c"><b>Hard</b></span> |
+| 833 | Find And Replace in String | String, Sorting | <span style="color:#f39c12"><b>Medium</b></span> |
 | 840 | Magic Squares in Grid | Array, Matrix, Simulation | <span style="color:#f39c12"><b>Medium</b></span> |
 | 875 | Koko Eating Bananas | Array, Binary Search | <span style="color:#f39c12"><b>Medium</b></span> |
 | 912 | Sort an Array | Array, Sorting | <span style="color:#f39c12"><b>Medium</b></span> |
