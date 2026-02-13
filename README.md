@@ -15,12 +15,12 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 |---|--------|---------|--------|------------|
 | 1 | Two Sum | 1 | Array, Hash Table | <span style="color:#2ecc71"><b>Easy</b></span> | 
 | 2 | Add Two Numbers | 1 | Linked List, Math | <span style="color:#f39c12"><b>Medium</b></span> |
-| 3 | Longest Substring Without Repeating Characters | 0 | String, Sliding Window | <span style="color:#f39c12"><b>Medium</b></span> |
+| 3 | Longest Substring Without Repeating Characters | 1 | String, Sliding Window | <span style="color:#f39c12"><b>Medium</b></span> |
 | 4 | Median of Two Sorted Arrays | 0 | Array, Binary Search, Divide and Conquer | <span style="color:#e74c3c"><b>Hard</b></span> |
 | 5 | Longest Palindromic Substring | 1 | String, Dynamic Programming, Expand Around Center | <span style="color:#f39c12"><b>Medium</b></span> |
 | 6 | Zigzag Conversion | 0 | String | <span style="color:#f39c12"><b>Medium</b></span> |
 | 7 | Reverse Integer | 0 | Math, digit manipulation | <span style="color:#f39c12"><b>Medium</b></span> |
-| 9 | Palindrome Number | 0 | Math | <span style="color:#2ecc71"><b>Easy</b></span> |
+| 9 | Palindrome Number | 1 | Math | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 11 | Container With Most Water | 1 | Array, Two Pointers | <span style="color:#f39c12"><b>Medium</b></span> |
 | 14 | Longest Common Prefix | 0 | String, Array | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 15 | 3Sum | 0 | Array, Two Pointers, Sorting. Hash Map, Hash Set | <span style="color:#f39c12"><b>Medium</b></span> |
@@ -48,7 +48,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 97 | Interleaving String | 0 | String, Dynamic Programming | <span style="color:#f39c12"><b>Medium</b></span> |
 | 118 | Pascal's Triangle | 0 | Array, Dynamic Programming | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 121 | Best Time to Buy and Sell Stock | 1 | Array | <span style="color:#2ecc71"><b>Easy</b></span> |
-| 128 | Longest Consecutive Sequence | 0 | Array, HashSet | <span style="color:#f39c12"><b>Medium</b></span> |
+| 128 | Longest Consecutive Sequence | 1 | Array, HashSet | <span style="color:#f39c12"><b>Medium</b></span> |
 | 139 | Word Break | 0 | String, Dynamic Programming, Trie, Breadth-First Search | <span style="color:#f39c12"><b>Medium</b></span> |
 | 146 | LRU Cache | 0 | Design, Hash Table, Doubly Linked List | <span style="color:#f39c12"><b>Medium</b></span> |
 | 155 | Min Stack | 0 | Stack, Design | <span style="color:#f39c12"><b>Medium</b></span> |
@@ -70,6 +70,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 359 | Logger Rate Limiter | 0 | Hash Table, Queue, Set | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 394 | Decode String | 0 | String, Stack, Recursion | <span style="color:#f39c12"><b>Medium</b></span> |
 | 415 | Add Strings | 0 | Math, String | <span style="color:#2ecc71"><b>Easy</b></span> | 
+| 442 | Find All Duplicates in an Array | 0 | Array, Cyclic Sort | <span style="color:#f39c12"><b>Medium</b></span> |
 | 443 | String Compression | 0 | Array, String, Math | <span style="color:#f39c12"><b>Medium</b></span> |
 | 518 | Coin Change II | 0 | Dynamic Programming | <span style="color:#f39c12"><b>Medium</b></span> |
 | 525 | Contiguous Array | 0 | Prefix Sum, HashMap | <span style="color:#f39c12"><b>Medium</b></span> |
@@ -93,7 +94,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 1339 | Maximum Product of Splitted Binary Tree | 0 | Bit Manipulation, Binary Tree, DFS | <span style="color:#f39c12"><b>Medium</b></span> |
 | 1653 | Minimum Deletions to Make String Balanced | 0 | String, Dynamic Programming | <span style="color:#f39c12"><b>Medium</b></span> |
 | 1877 | Minimize Maximum Pair Sum in Array | 0 | Array, Sorting | <span style="color:#f39c12"><b>Medium</b></span> |
-| 1929 | Concatenation of Array | 0 | Array | <span style="color:#2ecc71"><b>Easy</b></span> |
+| 1929 | Concatenation of Array | 1 | Array | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 1975 | Maximum Matrix Sum | 0 | Math | <span style="color:#f39c12"><b>Medium</b></span> |
 | 2396 | Strictly Palindromic Number | 0 | Math | <span style="color:#f39c12"><b>Medium</b></span> |
 | 2975 | Maximum Square Area by Removing Fences From a Field | 0 | Array, Math, Enumeration | <span style="color:#f39c12"><b>Medium</b></span> |
