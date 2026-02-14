@@ -16,7 +16,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 1 | Two Sum | 1 | Array, Hash Table | <span style="color:#2ecc71"><b>Easy</b></span> | 
 | 2 | Add Two Numbers | 1 | Linked List, Math | <span style="color:#f39c12"><b>Medium</b></span> |
 | 3 | Longest Substring Without Repeating Characters | 1 | String, Sliding Window | <span style="color:#f39c12"><b>Medium</b></span> |
-| 4 | Median of Two Sorted Arrays | 0 | Array, Binary Search, Divide and Conquer | <span style="color:#e74c3c"><b>Hard</b></span> |
+| 4 | Median of Two Sorted Arrays | 1 | Array, Binary Search, Divide and Conquer | <span style="color:#e74c3c"><b>Hard</b></span> |
 | 5 | Longest Palindromic Substring | 1 | String, Dynamic Programming, Expand Around Center | <span style="color:#f39c12"><b>Medium</b></span> |
 | 6 | Zigzag Conversion | 0 | String | <span style="color:#f39c12"><b>Medium</b></span> |
 | 7 | Reverse Integer | 0 | Math, digit manipulation | <span style="color:#f39c12"><b>Medium</b></span> |
@@ -52,6 +52,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 139 | Word Break | 0 | String, Dynamic Programming, Trie, Breadth-First Search | <span style="color:#f39c12"><b>Medium</b></span> |
 | 146 | LRU Cache | 0 | Design, Hash Table, Doubly Linked List | <span style="color:#f39c12"><b>Medium</b></span> |
 | 155 | Min Stack | 0 | Stack, Design | <span style="color:#f39c12"><b>Medium</b></span> |
+| 162 | Find Peak Element | 0 | Array, Binary Search | <span style="color:#f39c12"><b>Medium</b></span> |
 | 167 | Two Sum II - Input Array Is Sorted | 0 | Array, Two Pointers | <span style="color:#f39c12"><b>Medium</b></span> |
 | 189 | Rotate Array | 0 | Array, Math, Two Pointers | <span style="color:#f39c12"><b>Medium</b></span> |
 | 198 | House Robber | 0 | Dynamic Programming, Recursion, Memoization | <span style="color:#f39c12"><b>Medium</b></span> |
@@ -77,6 +78,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 560 | Subarray Sum Equals K | 0 | Array, Prefix Sum, HashMap | <span style="color:#f39c12"><b>Medium</b></span> |
 | 658 | Find K Closest Elements | 0 | Binary Search, Sliding Window, Sorting | <span style="color:#f39c12"><b>Medium</b></span> |
 | 678 | Valid Parenthesis String | 0 | Stack, Two Pointers, Dynamic Programming | <span style="color:#f39c12"><b>Medium</b></span> |
+| 714 | Best Time to Buy and Sell Stock with Transaction Fee | 0 | Array, Dynamic Programming | <span style="color:#f39c12"><b>Medium</b></span> |
 | 721 | Accounts Merge | 0 | Union Find, Graph, DFS | <span style="color:#f39c12"><b>Medium</b></span> |
 | 728 | Self Dividing Numbers | 0 | Math, Brute Force | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 756 | Pyramid Transition Matrix | 0 | Backtracking, Dynamic Programming | <span style="color:#f39c12"><b>Medium</b></span> |
