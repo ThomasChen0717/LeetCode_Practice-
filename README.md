@@ -57,6 +57,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 189 | Rotate Array | 0 | Array, Math, Two Pointers | <span style="color:#f39c12"><b>Medium</b></span> |
 | 198 | House Robber | 0 | Dynamic Programming, Recursion, Memoization | <span style="color:#f39c12"><b>Medium</b></span> |
 | 200 | Number of Islands | 0 | Graph, DFS, BFS, Union Find | <span style="color:#f39c12"><b>Medium</b></span> |
+| 207 | Course Schedule | 0 | Graph, Topological Sort, DFS, BFS | <span style="color:#f39c12"><b>Medium</b></span> |
 | 210 | Course Schedule II | 0 | Graph, Topological Sort, DFS, BFS | <span style="color:#f39c12"><b>Medium</b></span> |
 | 215 | Kth Largest Element in an Array | 0 | Array, Sorting, Quick Select, Counting Sort | <span style="color:#f39c12"><b>Medium</b></span> |
 | 236 | Lowest Common Ancestor of a Binary Tree | 0 | Binary Tree, DFS | <span style="color:#f39c12"><b>Medium</b></span> |
@@ -83,6 +84,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 728 | Self Dividing Numbers | 0 | Math, Brute Force | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 756 | Pyramid Transition Matrix | 0 | Backtracking, Dynamic Programming | <span style="color:#f39c12"><b>Medium</b></span> |
 | 778 | Swim in Rising Water | 0 | Dijkstra's Algorithm | <span style="color:#e74c3c"><b>Hard</b></span> |
+| 799 | Champagne Tower | 0 | Matrix, Simulation | <span style="color:#f39c12"><b>Medium</b></span> |
 | 833 | Find And Replace in String | 0 | String, Sorting | <span style="color:#f39c12"><b>Medium</b></span> |
 | 840 | Magic Squares in Grid | 0 | Array, Matrix, Simulation | <span style="color:#f39c12"><b>Medium</b></span> |
 | 875 | Koko Eating Bananas | 0 | Array, Binary Search | <span style="color:#f39c12"><b>Medium</b></span> |
