@@ -23,7 +23,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 9 | Palindrome Number | 1 | Math | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 11 | Container With Most Water | 1 | Array, Two Pointers | <span style="color:#f39c12"><b>Medium</b></span> |
 | 14 | Longest Common Prefix | 1 | String, Array | <span style="color:#2ecc71"><b>Easy</b></span> |
-| 15 | 3Sum | 0 | Array, Two Pointers, Sorting. Hash Map, Hash Set | <span style="color:#f39c12"><b>Medium</b></span> |
+| 15 | 3Sum | 1 | Array, Two Pointers, Sorting. Hash Map, Hash Set | <span style="color:#f39c12"><b>Medium</b></span> |
 | 16 | 3Sum Closest | 0 | Array, Two Pointers, Sorting | <span style="color:#f39c12"><b>Medium</b></span> |
 | 19 | Remove Nth Node From End of List | 0 | Linked List, Two Pointers | <span style="color:#f39c12"><b>Medium</b></span> |
 | 20 | Valid Parentheses | 1 | String, Stack | <span style="color:#2ecc71"><b>Easy</b></span> |
@@ -35,7 +35,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 45 | Jump Game II | 0 | Array, Dynamic Programming, Greedy | <span style="color:#f39c12"><b>Medium</b></span> |
 | 46 | Permutations | 0 | Array, Backtracking | <span style="color:#f39c12"><b>Medium</b></span> |
 | 49 | Group Anagrams | 0 | Array, Hash Table, String, Sorting | <span style="color:#f39c12"><b>Medium</b></span> |
-| 53 | Maximum Subarray | 0 | Array, Dynamic Programming, Divide and Conquer | <span style="color:#f39c12"><b>Medium</b></span> |
+| 53 | Maximum Subarray | 1 | Array, Dynamic Programming, Divide and Conquer | <span style="color:#f39c12"><b>Medium</b></span> |
 | 54 | Spiral Matrix | 0 | Matrix, DFS | <span style="color:#f39c12"><b>Medium</b></span> |
 | 55 | Jump Game | 0 | Array, Dynamic Programming, Greedy | <span style="color:#f39c12"><b>Medium</b></span> |
 | 56 | Merge Intervals | 1 | Array, Sorting, Graph | <span style="color:#f39c12"><b>Medium</b></span> |
@@ -45,6 +45,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 78 | Subsets | 0 | Array, Backtracking, Bitmasking | <span style="color:#f39c12"><b>Medium</b></span> |
 | 84 | Largest Rectangle in Histogram | 0 | Array, Stack | <span style="color:#e74c3c"><b>Hard</b></span> |
 | 85 | Maximal Rectangle | 0 | Array, Dynamic Programming, Stack | <span style="color:#e74c3c"><b>Hard</b></span> |
+| 92 | Reverse Linked List II | 0 | Linked List | <span style="color:#f39c12"><b>Medium</b></span> |
 | 97 | Interleaving String | 0 | String, Dynamic Programming | <span style="color:#f39c12"><b>Medium</b></span> |
 | 118 | Pascal's Triangle | 0 | Array, Dynamic Programming | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 121 | Best Time to Buy and Sell Stock | 1 | Array | <span style="color:#2ecc71"><b>Easy</b></span> |
@@ -61,7 +62,8 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 210 | Course Schedule II | 0 | Graph, Topological Sort, DFS, BFS | <span style="color:#f39c12"><b>Medium</b></span> |
 | 215 | Kth Largest Element in an Array | 0 | Array, Sorting, Quick Select, Counting Sort | <span style="color:#f39c12"><b>Medium</b></span> |
 | 236 | Lowest Common Ancestor of a Binary Tree | 0 | Binary Tree, DFS | <span style="color:#f39c12"><b>Medium</b></span> |
-| 242 | Valid Anagram | 0 | String, Sorting, Hash Table | <span style="color:#2ecc71"><b>Easy</b></span> |
+| 238 | Product of Array Except Self | 1 | Array, Prefix Sum | <span style="color:#f39c12"><b>Medium</b></span> |
+| 242 | Valid Anagram | 1 | String, Sorting, Hash Table | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 249 | Group Shifted Strings | 0 | String, Hash Map | <span style="color:#f39c12"><b>Medium</b></span> |
 | 253 | Meeting Rooms II | 0 | Heap, Sorting, Chronological Ordering | <span style="color:#f39c12"><b>Medium</b></span> |
 | 268 | Missing Number | 0 | Array, Math, Bit Manipulation, Sorting, HashSet | <span style="color:#2ecc71"><b>Easy</b></span> |
@@ -87,7 +89,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 799 | Champagne Tower | 0 | Matrix, Simulation | <span style="color:#f39c12"><b>Medium</b></span> |
 | 833 | Find And Replace in String | 0 | String, Sorting | <span style="color:#f39c12"><b>Medium</b></span> |
 | 840 | Magic Squares in Grid | 0 | Array, Matrix, Simulation | <span style="color:#f39c12"><b>Medium</b></span> |
-| 875 | Koko Eating Bananas | 0 | Array, Binary Search | <span style="color:#f39c12"><b>Medium</b></span> |
+| 875 | Koko Eating Bananas | 1 | Array, Binary Search | <span style="color:#f39c12"><b>Medium</b></span> |
 | 912 | Sort an Array | 0 | Array, Sorting | <span style="color:#f39c12"><b>Medium</b></span> |
 | 944 | Delete Columns to Make Sorted | 0 | Array, String, Brute Force Matrix Traversal | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 977 | Squares of a Sorted Array | 0 | Array, Two Pointers, Sorting | <span style="color:#2ecc71"><b>Easy</b></span> |
