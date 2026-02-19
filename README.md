@@ -72,6 +72,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 347 | Top K Frequent Elements | 0 | Array, Hash Table, Heap, Quick Select | <span style="color:#f39c12"><b>Medium</b></span> |
 | 351 | Android Unlock Patterns | 0 | Backtracking, DP/Memoization | <span style="color:#f39c12"><b>Medium</b></span> |
 | 359 | Logger Rate Limiter | 0 | Hash Table, Queue, Set | <span style="color:#2ecc71"><b>Easy</b></span> |
+| 360 | Sort Transformed Array | 0 | Array, Math, Two Pointers | <span style="color:#f39c12"><b>Medium</b></span> |
 | 394 | Decode String | 0 | String, Stack, Recursion | <span style="color:#f39c12"><b>Medium</b></span> |
 | 415 | Add Strings | 0 | Math, String | <span style="color:#2ecc71"><b>Easy</b></span> | 
 | 442 | Find All Duplicates in an Array | 0 | Array, Cyclic Sort | <span style="color:#f39c12"><b>Medium</b></span> |
