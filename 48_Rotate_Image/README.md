@@ -41,14 +41,32 @@ Output: [[15,13,2,5],[14,3,4,1],[12,6,8,9],[16,7,10,11]]
 
 We can iterate over each group of four cells and rotate them.
 
-Notice for a cell (i,j) 
+Notice for a cell `(i,j)` , its rotated position is `(j,n-i-1)`, where `n` is the size of the matrix. We can rotate the four cells in a group in a single pass. 
+
+We iterate over two loops:
+- The outer loop iterates over the first half of the rows. 
+    - Add 1 if `n` is odd.
+- The inner loop iterates over half of the columns in the current row.  
+
 
 ### Complexity Analysis
-
-- **Time Complexity:** `O(...)`
-- **Space Complexity:** `O(...)`
+Let `m` be the size of the matrix.
+- **Time Complexity:** `O(m)`
+- **Space Complexity:** `O(1)`
 
 ---
+
+## Approach 2: Transpose and Reflect
+
+### Intuition
+
+We can rotate the matrix by transposing it and then reflecting it.
+
+### Complexity Analysis
+- **Time Complexity:** `O(m)`
+- **Space Complexity:** `O(1)`
+
+--- 
 
 ## Implementation
 
