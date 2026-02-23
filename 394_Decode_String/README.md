@@ -78,7 +78,6 @@ We continue this process until the we finish iterating.
 Let 
 - `n` be the length of the input string `s`.
 - `maxK` be the maximum value of the number before the opening bracket `'['`.
-- `countK` be the number of times the string inside the brackets is repeated.
 - **Time Complexity:** `O(maxK^countK * n)`
 - **Space Complexity:** `O(maxK^countK * n)`
 
