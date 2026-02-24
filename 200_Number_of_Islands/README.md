@@ -64,7 +64,7 @@ Do a BFS search on each land cell not visited. If the cell is `'1'`, increment t
 ### Complexity Analysis
 
 - **Time Complexity:** `O(m * n)`, where `m` is the number of rows and `n` is the number of columns in the grid.
-- **Space Complexity:** `O(m * n)` in the worst case, where the grid is filled with `'1'`s.
+- **Space Complexity:** `O(min(m, n))` in the worst case, where the grid is filled with `'1'`s.
 
 ---
 

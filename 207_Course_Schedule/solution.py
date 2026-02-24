@@ -38,7 +38,8 @@ class Solution:
             return True
         if visit[node]:
             return False
-       
+
+        visit[node] = True
         inStack[node] = True
         for neighbor in adj[node]:
             if self.dfs(neighbor, adj, visit, inStack):
