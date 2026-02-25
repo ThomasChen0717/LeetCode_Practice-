@@ -31,6 +31,9 @@ class Solution:
                 while lo < hi and nums[lo] == nums[lo - 1]:
                     lo += 1
 
+                while lo < hi and nums[hi] == nums[hi + 1]:
+                    hi -= 1
+
 
 # Approach 2: Sorting with HashSet
 class Solution:

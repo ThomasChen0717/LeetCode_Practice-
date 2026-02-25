@@ -52,7 +52,7 @@ We use breadfirst search to find the minimum time it takes for all the `n` nodes
 ### Complexity Analysis
 Let `V` be the number of vertices and `E` be the number of edges in the graph.
 - **Time Complexity:** `O(VE)`
-- **Space Complexity:** `O(VE)`
+- **Space Complexity:** `O(V + E)`
 
 ---
 
