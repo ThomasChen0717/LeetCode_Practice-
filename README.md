@@ -42,6 +42,8 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 55 | Jump Game | 1 | Array, Dynamic Programming, Greedy | <span style="color:#f39c12"><b>Medium</b></span> |
 | 56 | Merge Intervals | 1 | Array, Sorting, Graph | <span style="color:#f39c12"><b>Medium</b></span> |
 | 57 | Insert Interval | 1 | Array, Sorting | <span style="color:#f39c12"><b>Medium</b></span> |
+| 63 | Unique Paths II | 1 | Array, Dynamic Programming | <span style="color:#f39c12"><b>Medium</b></span> |
+| 64 | Minimum Path Sum | 1 | Array, Dynamic Programming | <span style="color:#f39c12"><b>Medium</b></span> |
 | 66 | Plus One | 1 | Array, Math | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 70 | Climbing Stairs | 0 | Dynamic Programming, Fibonacci Number | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 71 | Simplify Path | 1 | String, Stack | <span style="color:#f39c12"><b>Medium</b></span> |
