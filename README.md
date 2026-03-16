@@ -56,6 +56,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 97 | Interleaving String | 0 | String, Dynamic Programming | <span style="color:#f39c12"><b>Medium</b></span> |
 | 118 | Pascal's Triangle | 0 | Array, Dynamic Programming | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 121 | Best Time to Buy and Sell Stock | 1 | Array | <span style="color:#2ecc71"><b>Easy</b></span> |
+| 123 | Best Time to Buy and Sell Stock III | 1 | Array, Dynamic Programming | <span style="color:#e74c3c"><b>Hard</b></span> |
 | 128 | Longest Consecutive Sequence | 1 | Array, HashSet | <span style="color:#f39c12"><b>Medium</b></span> |
 | 139 | Word Break | 0 | String, Dynamic Programming, Trie, Breadth-First Search | <span style="color:#f39c12"><b>Medium</b></span> |
 | 146 | LRU Cache | 1 | Design, Hash Table, Doubly Linked List | <span style="color:#f39c12"><b>Medium</b></span> |
@@ -64,6 +65,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 167 | Two Sum II - Input Array Is Sorted | 0 | Array, Two Pointers | <span style="color:#f39c12"><b>Medium</b></span> |
 | 169 | Majority Element | 0 | Array, Hash Table, Counting, Bit Manipulation | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 179 | Largest Number | 1 | Array, Sorting | <span style="color:#f39c12"><b>Medium</b></span> |
+| 188 | Best Time to Buy and Sell Stock IV | 1 | Array, Dynamic Programming | <span style="color:#e74c3c"><b>Hard</b></span> |
 | 189 | Rotate Array | 1 | Array, Math, Two Pointers | <span style="color:#f39c12"><b>Medium</b></span> |
 | 198 | House Robber | 1 | Dynamic Programming, Recursion, Memoization | <span style="color:#f39c12"><b>Medium</b></span> |
 | 200 | Number of Islands | 1 | Graph, DFS, BFS, Union Find | <span style="color:#f39c12"><b>Medium</b></span> |

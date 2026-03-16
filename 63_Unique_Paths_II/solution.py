@@ -63,10 +63,22 @@ class Solution:
         n = len(obstacleGrid) 
         m = len(obstacleGrid[0])
 
-        obstacleGrid[0][0] = 1 if obstacleGrid[0][0] == 0 else 0
+        if obstacleGrid[0][0] == 1: return 0
 
-        for i in range(n): 
-            for j in range(m): 
+        obstacleGrid[0][0] = 1 
+
+        for i in range(1, n):
+            obstacleGrid[i][0] = int(
+                obstacleGrid[i][0] == 0 and obstacleGrid[i - 1][0] == 1
+            )
+
+        for j in range(1, m):
+            obstacleGrid[0][j] = int(
+                obstacleGrid[0][j] == 0 and obstacleGrid[0][j - 1] == 1
+            )
+
+        for i in range(1, n): 
+            for j in range(1,m): 
                 if obstacleGrid[i][j] == 1: 
                     obstacleGrid[i][j] = 0
                 else: 
@@ -76,3 +88,5 @@ class Solution:
                         obstacleGrid[i][j] += obstacleGrid[i][j-1]
 
         return obstacleGrid[n-1][m-1]
+
+        
