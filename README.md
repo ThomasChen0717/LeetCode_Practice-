@@ -73,6 +73,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 209 | Minimum Size Subarray Sum | 1 | Array, Sliding Window | <span style="color:#f39c12"><b>Medium</b></span> |
 | 210 | Course Schedule II | 0 | Graph, Topological Sort, DFS, BFS | <span style="color:#f39c12"><b>Medium</b></span> |
 | 215 | Kth Largest Element in an Array | 1 | Array, Sorting, Quick Select, Counting Sort | <span style="color:#f39c12"><b>Medium</b></span> |
+| 221 | Maximal Square | 1 | Array, Dynamic Programming, Matrix | <span style="color:#f39c12"><b>Medium</b></span> |
 | 236 | Lowest Common Ancestor of a Binary Tree | 0 | Binary Tree, DFS | <span style="color:#f39c12"><b>Medium</b></span> |
 | 238 | Product of Array Except Self | 1 | Array, Prefix Sum | <span style="color:#f39c12"><b>Medium</b></span> |
 | 242 | Valid Anagram | 1 | String, Sorting, Hash Table | <span style="color:#2ecc71"><b>Easy</b></span> |
