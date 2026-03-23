@@ -60,6 +60,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 128 | Longest Consecutive Sequence | 1 | Array, HashSet | <span style="color:#f39c12"><b>Medium</b></span> |
 | 139 | Word Break | 0 | String, Dynamic Programming, Trie, Breadth-First Search | <span style="color:#f39c12"><b>Medium</b></span> |
 | 146 | LRU Cache | 1 | Design, Hash Table, Doubly Linked List | <span style="color:#f39c12"><b>Medium</b></span> |
+| 149 | Max Points on a Line | 1 | Hash Table, Math, Geometry | <span style="color:#e74c3c"><b>Hard</b></span> |
 | 155 | Min Stack | 0 | Stack, Design | <span style="color:#f39c12"><b>Medium</b></span> |
 | 162 | Find Peak Element | 1 | Array, Binary Search | <span style="color:#f39c12"><b>Medium</b></span> |
 | 167 | Two Sum II - Input Array Is Sorted | 0 | Array, Two Pointers | <span style="color:#f39c12"><b>Medium</b></span> |
