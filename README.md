@@ -91,6 +91,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 415 | Add Strings | 0 | Math, String | <span style="color:#2ecc71"><b>Easy</b></span> | 
 | 442 | Find All Duplicates in an Array | 0 | Array, Cyclic Sort | <span style="color:#f39c12"><b>Medium</b></span> |
 | 443 | String Compression | 0 | Array, String, Math | <span style="color:#f39c12"><b>Medium</b></span> |
+| 502 | IPO | 1 | Array, Sorting, Heap (Priority Queue) | <span style="color:#e74c3c"><b>Hard</b></span> |
 | 518 | Coin Change II | 0 | Dynamic Programming | <span style="color:#f39c12"><b>Medium</b></span> |
 | 525 | Contiguous Array | 0 | Prefix Sum, HashMap | <span style="color:#f39c12"><b>Medium</b></span> |
 | 540 | Single Element in a Sorted Array | 1 | Array, Binary Search | <span style="color:#f39c12"><b>Medium</b></span> |
