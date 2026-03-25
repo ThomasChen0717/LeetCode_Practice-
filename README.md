@@ -81,6 +81,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 249 | Group Shifted Strings | 1 | String, Hash Map | <span style="color:#f39c12"><b>Medium</b></span> |
 | 253 | Meeting Rooms II | 0 | Heap, Sorting, Chronological Ordering | <span style="color:#f39c12"><b>Medium</b></span> |
 | 268 | Missing Number | 0 | Array, Math, Bit Manipulation, Sorting, HashSet | <span style="color:#2ecc71"><b>Easy</b></span> |
+| 295 | Find Median from Data Stream | 1 | Design, Binary Search, Data Stream, Sorting, Heap (Priority Queue) | <span style="color:#e74c3c"><b>Hard</b></span> |
 | 300 | Longest Increasing Subsequence | 0 | Array, Dynamic Programming, Binary Search | <span style="color:#f39c12"><b>Medium</b></span> |
 | 345 | Reverse Vowels of a String | 0 | String, Two Pointers | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 347 | Top K Frequent Elements | 1 | Array, Hash Table, Heap, Quick Select | <span style="color:#f39c12"><b>Medium</b></span> |
