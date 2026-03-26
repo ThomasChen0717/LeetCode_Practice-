@@ -45,6 +45,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 63 | Unique Paths II | 1 | Array, Dynamic Programming | <span style="color:#f39c12"><b>Medium</b></span> |
 | 64 | Minimum Path Sum | 1 | Array, Dynamic Programming | <span style="color:#f39c12"><b>Medium</b></span> |
 | 66 | Plus One | 1 | Array, Math | <span style="color:#2ecc71"><b>Easy</b></span> |
+| 67 | Add Binary | 1 | Math, String, Bit Manipulation | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 70 | Climbing Stairs | 0 | Dynamic Programming, Fibonacci Number | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 71 | Simplify Path | 1 | String, Stack | <span style="color:#f39c12"><b>Medium</b></span> |
 | 72 | Edit Distance | 0 | String, Dynamic Programming, Recursion | <span style="color:#e74c3c"><b>Hard</b></span> |
