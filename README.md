@@ -71,6 +71,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 179 | Largest Number | 1 | Array, Sorting | <span style="color:#f39c12"><b>Medium</b></span> |
 | 188 | Best Time to Buy and Sell Stock IV | 1 | Array, Dynamic Programming | <span style="color:#e74c3c"><b>Hard</b></span> |
 | 189 | Rotate Array | 1 | Array, Math, Two Pointers | <span style="color:#f39c12"><b>Medium</b></span> |
+| 190 | Reverse Bits | 1 | Bit Manipulation | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 198 | House Robber | 1 | Dynamic Programming, Recursion, Memoization | <span style="color:#f39c12"><b>Medium</b></span> |
 | 200 | Number of Islands | 1 | Graph, DFS, BFS, Union Find | <span style="color:#f39c12"><b>Medium</b></span> |
 | 201 | Bitwise AND of Numbers Range | 1 | Bit Manipulation | <span style="color:#f39c12"><b>Medium</b></span> |
