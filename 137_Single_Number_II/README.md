@@ -93,4 +93,4 @@ After iterating through all the numbers, the `seen_once` variable will hold the 
 
 ## Implementation
 
-See [`solution.py`](file:///c:\Users\thoma\Documents\Leetcode\137_Single_Number_II\solution.py) for the full implementation of both approaches.
+See `solution.py` for the full implementation of both approaches.

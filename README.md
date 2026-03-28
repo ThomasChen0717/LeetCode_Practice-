@@ -73,6 +73,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 189 | Rotate Array | 1 | Array, Math, Two Pointers | <span style="color:#f39c12"><b>Medium</b></span> |
 | 198 | House Robber | 1 | Dynamic Programming, Recursion, Memoization | <span style="color:#f39c12"><b>Medium</b></span> |
 | 200 | Number of Islands | 1 | Graph, DFS, BFS, Union Find | <span style="color:#f39c12"><b>Medium</b></span> |
+| 201 | Bitwise AND of Numbers Range | 1 | Bit Manipulation | <span style="color:#f39c12"><b>Medium</b></span> |
 | 207 | Course Schedule | 1 | Graph, Topological Sort, DFS, BFS | <span style="color:#f39c12"><b>Medium</b></span> |
 | 209 | Minimum Size Subarray Sum | 1 | Array, Sliding Window | <span style="color:#f39c12"><b>Medium</b></span> |
 | 210 | Course Schedule II | 0 | Graph, Topological Sort, DFS, BFS | <span style="color:#f39c12"><b>Medium</b></span> |
