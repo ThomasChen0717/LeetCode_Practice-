@@ -102,6 +102,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 525 | Contiguous Array | 0 | Prefix Sum, HashMap | <span style="color:#f39c12"><b>Medium</b></span> |
 | 540 | Single Element in a Sorted Array | 1 | Array, Binary Search | <span style="color:#f39c12"><b>Medium</b></span> |
 | 560 | Subarray Sum Equals K | 1 | Array, Prefix Sum, HashMap | <span style="color:#f39c12"><b>Medium</b></span> |
+| 657 | Robot Return to Origin | 1 | String, Simulation | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 658 | Find K Closest Elements | 0 | Binary Search, Sliding Window, Sorting | <span style="color:#f39c12"><b>Medium</b></span> |
 | 678 | Valid Parenthesis String | 0 | Stack, Two Pointers, Dynamic Programming | <span style="color:#f39c12"><b>Medium</b></span> |
 | 714 | Best Time to Buy and Sell Stock with Transaction Fee | 1 | Array, Dynamic Programming | <span style="color:#f39c12"><b>Medium</b></span> |
