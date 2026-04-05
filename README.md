@@ -18,14 +18,14 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 3 | Longest Substring Without Repeating Characters | 1 | String, Sliding Window | <span style="color:#f39c12"><b>Medium</b></span> |
 | 4 | Median of Two Sorted Arrays | 1 | Array, Binary Search, Divide and Conquer | <span style="color:#e74c3c"><b>Hard</b></span> |
 | 5 | Longest Palindromic Substring | 1 | String, Dynamic Programming, Expand Around Center | <span style="color:#f39c12"><b>Medium</b></span> |
-| 6 | Zigzag Conversion | 0 | String | <span style="color:#f39c12"><b>Medium</b></span> |
+| 6 | Zigzag Conversion | 1 | String | <span style="color:#f39c12"><b>Medium</b></span> |
 | 7 | Reverse Integer | 1 | Math, digit manipulation | <span style="color:#f39c12"><b>Medium</b></span> |
 | 9 | Palindrome Number | 1 | Math | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 11 | Container With Most Water | 1 | Array, Two Pointers | <span style="color:#f39c12"><b>Medium</b></span> |
 | 14 | Longest Common Prefix | 1 | String, Array | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 15 | 3Sum | 1 | Array, Two Pointers, Sorting. Hash Map, Hash Set | <span style="color:#f39c12"><b>Medium</b></span> |
 | 16 | 3Sum Closest | 1 | Array, Two Pointers, Sorting | <span style="color:#f39c12"><b>Medium</b></span> |
-| 19 | Remove Nth Node From End of List | 0 | Linked List, Two Pointers | <span style="color:#f39c12"><b>Medium</b></span> |
+| 19 | Remove Nth Node From End of List | 1 | Linked List, Two Pointers | <span style="color:#f39c12"><b>Medium</b></span> |
 | 20 | Valid Parentheses | 1 | String, Stack | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 31 | Next Permutation | 1 | Array, Math | <span style="color:#f39c12"><b>Medium</b></span> |
 | 33 | Search in Rotated Sorted Array | 1 | Array, Binary Search | <span style="color:#f39c12"><b>Medium</b></span> |
