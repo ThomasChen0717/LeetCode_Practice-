@@ -16,7 +16,7 @@ class Solution:
 
         steps = length - n
 
-        second = head 
+        second = dummy
 
         for _ in range(steps): 
             second = second.next

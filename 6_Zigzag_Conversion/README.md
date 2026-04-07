@@ -68,7 +68,7 @@ Let `n` be the length of the string `s`, and `numRows` be the number of rows.
 
 ### Intuition
 
-We find that for each row in the zigzag pattern, we can find a pattern to jump to the next index. For example, for the first row, we jump to the next index by `2 * numRows - 2` characters, which is exactly the length of each section. For the second row, we jump to the next index by `length of section - 2 * currRow` characters, and so on.
+We find that for each row in the zigzag pattern, we can find a pattern to jump to the next index. For example, for the first row and last row, we jump to the next index by `2 * numRows - 2` characters, which is exactly the length of each section. For the second row, we jump to the next index by `length of section - 2 * currRow` characters, and so on.
 
 ### Complexity Analysis
 - **Time Complexity:** `O(n)`
