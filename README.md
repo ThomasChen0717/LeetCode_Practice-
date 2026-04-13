@@ -29,8 +29,8 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 20 | Valid Parentheses | 1 | String, Stack | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 31 | Next Permutation | 1 | Array, Math | <span style="color:#f39c12"><b>Medium</b></span> |
 | 33 | Search in Rotated Sorted Array | 1 | Array, Binary Search | <span style="color:#f39c12"><b>Medium</b></span> |
-| 34 | Find First and Last Position of Element in Sorted Array | 0 | Array, Binary Search | <span style="color:#f39c12"><b>Medium</b></span> |
-| 40 | Combination Sum II | 0 | Array, Backtracking | <span style="color:#f39c12"><b>Medium</b></span> |
+| 34 | Find First and Last Position of Element in Sorted Array | 1 | Array, Binary Search | <span style="color:#f39c12"><b>Medium</b></span> |
+| 40 | Combination Sum II | 1 | Array, Backtracking | <span style="color:#f39c12"><b>Medium</b></span> |
 | 42 | Trapping Rain Water | 1 | Array, Two Pointers, Dynamic Programming, Stack | <span style="color:#e74c3c"><b>Hard</b></span> |
 | 45 | Jump Game II | 1 | Array, Dynamic Programming, Greedy | <span style="color:#f39c12"><b>Medium</b></span> |
 | 46 | Permutations | 0 | Array, Backtracking | <span style="color:#f39c12"><b>Medium</b></span> |
