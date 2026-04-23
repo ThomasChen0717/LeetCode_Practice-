@@ -134,6 +134,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 1975 | Maximum Matrix Sum | 0 | Math | <span style="color:#f39c12"><b>Medium</b></span> |
 | 2396 | Strictly Palindromic Number | 0 | Math | <span style="color:#f39c12"><b>Medium</b></span> |
 | 2484 | Count Palindromic Subsequences | 1 | String, Dynamic Programming, Backtracking | <span style="color:#f39c12"><b>Medium</b></span> |
+| 2615 | Sum of Distances | 1 | Array, Prefix Sum | <span style="color:#f39c12"><b>Medium</b></span> |
 | 2975 | Maximum Square Area by Removing Fences From a Field | 0 | Array, Math, Enumeration | <span style="color:#f39c12"><b>Medium</b></span> |
 | 3074 | Apple Redistribution into Boxes | 0 | Array, Greedy | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 3453 | Separate Squares I | 1 | Array, Math, Sorting, Binary Search, Scan Line | <span style="color:#f39c12"><b>Medium</b></span> |
