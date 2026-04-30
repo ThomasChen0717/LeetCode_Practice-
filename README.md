@@ -141,6 +141,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 3634 | Minimum Removals to Balance Array | 1 | Array, Sorting, Two Pointers | <span style="color:#f39c12"><b>Medium</b></span> |
 | 3637 | Trionic Array | 0 | Array | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 3740 | Minimum Distance Between Three Equal Elements I | 1 | Array, Hash Table | <span style="color:#2ecc71"><b>Easy</b></span> |
+| 3742 | Maximum Path Score in a Grid | 1 | Array, Dynamic Programming, Memoization | <span style="color:#e74c3c"><b>Hard</b></span> |
 
 
 
