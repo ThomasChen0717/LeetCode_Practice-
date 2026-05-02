@@ -111,6 +111,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 743 | Network Delay Time | 1 | Graph, Dijkstra's Algorithm | <span style="color:#f39c12"><b>Medium</b></span> |
 | 756 | Pyramid Transition Matrix | 0 | Backtracking, Dynamic Programming | <span style="color:#f39c12"><b>Medium</b></span> |
 | 778 | Swim in Rising Water | 0 | Dijkstra's Algorithm | <span style="color:#e74c3c"><b>Hard</b></span> |
+| 788 | Rotated Digits | 1 | Math, Dynamic Programming | <span style="color:#f39c12"><b>Medium</b></span> |
 | 799 | Champagne Tower | 1 | Matrix, Simulation | <span style="color:#f39c12"><b>Medium</b></span> |
 | 833 | Find And Replace in String | 0 | String, Sorting | <span style="color:#f39c12"><b>Medium</b></span> |
 | 840 | Magic Squares in Grid | 0 | Array, Matrix, Simulation | <span style="color:#f39c12"><b>Medium</b></span> |
