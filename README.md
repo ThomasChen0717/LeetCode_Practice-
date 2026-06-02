@@ -44,6 +44,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 57 | Insert Interval | 1 | Array, Sorting | <span style="color:#f39c12"><b>Medium</b></span> |
 | 63 | Unique Paths II | 1 | Array, Dynamic Programming | <span style="color:#f39c12"><b>Medium</b></span> |
 | 64 | Minimum Path Sum | 1 | Array, Dynamic Programming | <span style="color:#f39c12"><b>Medium</b></span> |
+| 65 | Valid Number | 1 | String, Finite Automata | <span style="color:#e74c3c"><b>Hard</b></span> |
 | 66 | Plus One | 1 | Array, Math | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 67 | Add Binary | 1 | Math, String, Bit Manipulation | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 70 | Climbing Stairs | 0 | Dynamic Programming, Fibonacci Number | <span style="color:#2ecc71"><b>Easy</b></span> |
@@ -133,12 +134,14 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 1929 | Concatenation of Array | 1 | Array | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 1944 | Number of Visible People in a Queue | 0 | Array, Monotonic Stack | <span style="color:#e74c3c"><b>Hard</b></span> |
 | 1975 | Maximum Matrix Sum | 0 | Math | <span style="color:#f39c12"><b>Medium</b></span> |
+| 2126 | Destroying Asteroids | 1 | Array, Greedy, Sorting | <span style="color:#f39c12"><b>Medium</b></span> |
 | 2396 | Strictly Palindromic Number | 0 | Math | <span style="color:#f39c12"><b>Medium</b></span> |
 | 2484 | Count Palindromic Subsequences | 1 | String, Dynamic Programming, Backtracking | <span style="color:#f39c12"><b>Medium</b></span> |
 | 2615 | Sum of Distances | 1 | Array, Prefix Sum | <span style="color:#f39c12"><b>Medium</b></span> |
 | 2975 | Maximum Square Area by Removing Fences From a Field | 0 | Array, Math, Enumeration | <span style="color:#f39c12"><b>Medium</b></span> |
 | 3074 | Apple Redistribution into Boxes | 0 | Array, Greedy | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 3453 | Separate Squares I | 1 | Array, Math, Sorting, Binary Search, Scan Line | <span style="color:#f39c12"><b>Medium</b></span> |
+| 3633 | Earliest Finish Time for Land and Water Rides I | 1 | Array, Math, Sorting, Binary Search, Scan Line | <span style="color:#f39c12"><b>Medium</b></span> |
 | 3634 | Minimum Removals to Balance Array | 1 | Array, Sorting, Two Pointers | <span style="color:#f39c12"><b>Medium</b></span> |
 | 3637 | Trionic Array | 0 | Array | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 3740 | Minimum Distance Between Three Equal Elements I | 1 | Array, Hash Table | <span style="color:#2ecc71"><b>Easy</b></span> |
