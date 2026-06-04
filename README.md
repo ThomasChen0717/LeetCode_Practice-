@@ -52,6 +52,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 72 | Edit Distance | 0 | String, Dynamic Programming, Recursion | <span style="color:#e74c3c"><b>Hard</b></span> |
 | 75 | Sort Colors | 0 | Array, Sorting, Three Pointers | <span style="color:#f39c12"><b>Medium</b></span> |
 | 78 | Subsets | 1 | Array, Backtracking, Bitmasking | <span style="color:#f39c12"><b>Medium</b></span> |
+| 81 | Search in Rotated Sorted Array II | 1 | Array, Binary Search | <span style="color:#f39c12"><b>Medium</b></span> |
 | 84 | Largest Rectangle in Histogram | 0 | Array, Stack | <span style="color:#e74c3c"><b>Hard</b></span> |
 | 85 | Maximal Rectangle | 0 | Array, Dynamic Programming, Stack | <span style="color:#e74c3c"><b>Hard</b></span> |
 | 92 | Reverse Linked List II | 1 | Linked List | <span style="color:#f39c12"><b>Medium</b></span> |
