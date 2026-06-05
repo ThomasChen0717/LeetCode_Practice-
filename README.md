@@ -55,6 +55,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 81 | Search in Rotated Sorted Array II | 1 | Array, Binary Search | <span style="color:#f39c12"><b>Medium</b></span> |
 | 84 | Largest Rectangle in Histogram | 0 | Array, Stack | <span style="color:#e74c3c"><b>Hard</b></span> |
 | 85 | Maximal Rectangle | 0 | Array, Dynamic Programming, Stack | <span style="color:#e74c3c"><b>Hard</b></span> |
+| 87 | Scramble String | 1 | Dynamic Programming, String | <span style="color:#e74c3c"><b>Hard</b></span> |
 | 92 | Reverse Linked List II | 1 | Linked List | <span style="color:#f39c12"><b>Medium</b></span> |
 | 97 | Interleaving String | 0 | String, Dynamic Programming | <span style="color:#f39c12"><b>Medium</b></span> |
 | 118 | Pascal's Triangle | 0 | Array, Dynamic Programming | <span style="color:#2ecc71"><b>Easy</b></span> |
@@ -148,6 +149,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 3740 | Minimum Distance Between Three Equal Elements I | 1 | Array, Hash Table | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 3742 | Maximum Path Score in a Grid | 1 | Array, Dynamic Programming, Memoization | <span style="color:#e74c3c"><b>Hard</b></span> |
 | 3751 | Total Waviness of Numbers in Range I | 1 | Math, Enumeration | <span style="color:#f39c12"><b>Medium</b></span> |
+| 3753 | Total Waviness of Numbers in Range II | 1 | Math, Enumeration | <span style="color:#f39c12"><b>Medium</b></span> |
 
 
 
