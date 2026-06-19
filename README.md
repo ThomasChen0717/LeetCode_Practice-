@@ -57,6 +57,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 85 | Maximal Rectangle | 0 | Array, Dynamic Programming, Stack | <span style="color:#e74c3c"><b>Hard</b></span> |
 | 87 | Scramble String | 1 | Dynamic Programming, String | <span style="color:#e74c3c"><b>Hard</b></span> |
 | 92 | Reverse Linked List II | 1 | Linked List | <span style="color:#f39c12"><b>Medium</b></span> |
+| 93 | Restore IP Addresses | 1 | String, Backtracking | <span style="color:#f39c12"><b>Medium</b></span> |
 | 97 | Interleaving String | 0 | String, Dynamic Programming | <span style="color:#f39c12"><b>Medium</b></span> |
 | 118 | Pascal's Triangle | 0 | Array, Dynamic Programming | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 121 | Best Time to Buy and Sell Stock | 1 | Array | <span style="color:#2ecc71"><b>Easy</b></span> |
@@ -133,6 +134,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 1344 | Angle Between Hands of a Clock | 0 | Math | <span style="color:#f39c12"><b>Medium</b></span> |
 | 1461 | Check If a String Contains All Binary Codes of Size K | 0 | String, Bit Manipulation, Sliding Window, Hash Set | <span style="color:#f39c12"><b>Medium</b></span> |
 | 1653 | Minimum Deletions to Make String Balanced | 1 | String, Dynamic Programming | <span style="color:#f39c12"><b>Medium</b></span> |
+| 1732 | Find the Highest Altitude | 1 | Array, Prefix Sum | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 1877 | Minimize Maximum Pair Sum in Array | 0 | Array, Sorting | <span style="color:#f39c12"><b>Medium</b></span> |
 | 1929 | Concatenation of Array | 1 | Array | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 1944 | Number of Visible People in a Queue | 0 | Array, Monotonic Stack | <span style="color:#e74c3c"><b>Hard</b></span> |
