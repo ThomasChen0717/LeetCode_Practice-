@@ -135,6 +135,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 1461 | Check If a String Contains All Binary Codes of Size K | 0 | String, Bit Manipulation, Sliding Window, Hash Set | <span style="color:#f39c12"><b>Medium</b></span> |
 | 1653 | Minimum Deletions to Make String Balanced | 1 | String, Dynamic Programming | <span style="color:#f39c12"><b>Medium</b></span> |
 | 1732 | Find the Highest Altitude | 1 | Array, Prefix Sum | <span style="color:#2ecc71"><b>Easy</b></span> |
+| 1833 | Maximum Ice Cream Bars | 1 | Array, Sorting, Greedy | <span style="color:#f39c12"><b>Medium</b></span> |
 | 1877 | Minimize Maximum Pair Sum in Array | 0 | Array, Sorting | <span style="color:#f39c12"><b>Medium</b></span> |
 | 1929 | Concatenation of Array | 1 | Array | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 1944 | Number of Visible People in a Queue | 0 | Array, Monotonic Stack | <span style="color:#e74c3c"><b>Hard</b></span> |
