@@ -146,8 +146,10 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 2615 | Sum of Distances | 1 | Array, Prefix Sum | <span style="color:#f39c12"><b>Medium</b></span> |
 | 2975 | Maximum Square Area by Removing Fences From a Field | 0 | Array, Math, Enumeration | <span style="color:#f39c12"><b>Medium</b></span> |
 | 3074 | Apple Redistribution into Boxes | 0 | Array, Greedy | <span style="color:#2ecc71"><b>Easy</b></span> |
+| 3286 | Find a Safe Walk Through a Grid | 1 | Array, Matrix, BFS | <span style="color:#f39c12"><b>Medium</b></span> |
 | 3453 | Separate Squares I | 1 | Array, Math, Sorting, Binary Search, Scan Line | <span style="color:#f39c12"><b>Medium</b></span> |
 | 3614 | Process String With Special Operations II | 1 | String, Simulation, Stack, Two Pointers | <span style="color:#f39c12"><b>Hard</b></span> |
+| 3620 | Network Recovery Pathways | 1 | Graph, Dijkstra's Algorithm | <span style="color:#f39c12"><b>Medium</b></span> |
 | 3633 | Earliest Finish Time for Land and Water Rides I | 1 | Array, Math, Sorting, Binary Search, Scan Line | <span style="color:#f39c12"><b>Medium</b></span> |
 | 3634 | Minimum Removals to Balance Array | 1 | Array, Sorting, Two Pointers | <span style="color:#f39c12"><b>Medium</b></span> |
 | 3637 | Trionic Array | 0 | Array | <span style="color:#2ecc71"><b>Easy</b></span> |
