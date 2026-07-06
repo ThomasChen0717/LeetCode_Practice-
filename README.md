@@ -86,6 +86,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 221 | Maximal Square | 1 | Array, Dynamic Programming, Matrix | <span style="color:#f39c12"><b>Medium</b></span> |
 | 236 | Lowest Common Ancestor of a Binary Tree | 0 | Binary Tree, DFS | <span style="color:#f39c12"><b>Medium</b></span> |
 | 238 | Product of Array Except Self | 1 | Array, Prefix Sum | <span style="color:#f39c12"><b>Medium</b></span> |
+| 239 | Sliding Window Maximum | 1 | Queue, Array, Sliding Window, Monotonic Queue, Stack(Priority Queue) | <span style="color:#e74c3c"><b>Hard</b></span> |
 | 242 | Valid Anagram | 1 | String, Sorting, Hash Table | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 249 | Group Shifted Strings | 1 | String, Hash Map | <span style="color:#f39c12"><b>Medium</b></span> |
 | 253 | Meeting Rooms II | 0 | Heap, Sorting, Chronological Ordering | <span style="color:#f39c12"><b>Medium</b></span> |
@@ -99,13 +100,14 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 360 | Sort Transformed Array | 1 | Array, Math, Two Pointers | <span style="color:#f39c12"><b>Medium</b></span> |
 | 394 | Decode String | 1 | String, Stack, Recursion | <span style="color:#f39c12"><b>Medium</b></span> |
 | 415 | Add Strings | 0 | Math, String | <span style="color:#2ecc71"><b>Easy</b></span> | 
+| 438 | Find All Anagrams in a String | 1 | String, Sliding Window | <span style="color:#f39c12"><b>Medium</b></span> |
 | 442 | Find All Duplicates in an Array | 0 | Array, Cyclic Sort | <span style="color:#f39c12"><b>Medium</b></span> |
 | 443 | String Compression | 0 | Array, String, Math | <span style="color:#f39c12"><b>Medium</b></span> |
 | 502 | IPO | 1 | Array, Sorting, Heap (Priority Queue) | <span style="color:#e74c3c"><b>Hard</b></span> |
 | 518 | Coin Change II | 0 | Dynamic Programming | <span style="color:#f39c12"><b>Medium</b></span> |
 | 525 | Contiguous Array | 0 | Prefix Sum, HashMap | <span style="color:#f39c12"><b>Medium</b></span> |
 | 540 | Single Element in a Sorted Array | 1 | Array, Binary Search | <span style="color:#f39c12"><b>Medium</b></span> |
-| 560 | Subarray Sum Equals K | 1 | Array, Prefix Sum, HashMap | <span style="color:#f39c12"><b>Medium</b></span> |
+| 560 | Subarray Sum Equals K | 2 | Array, Prefix Sum, HashMap | <span style="color:#f39c12"><b>Medium</b></span> |
 | 657 | Robot Return to Origin | 1 | String, Simulation | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 658 | Find K Closest Elements | 0 | Binary Search, Sliding Window, Sorting | <span style="color:#f39c12"><b>Medium</b></span> |
 | 678 | Valid Parenthesis String | 0 | Stack, Two Pointers, Dynamic Programming | <span style="color:#f39c12"><b>Medium</b></span> |
@@ -129,6 +131,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 1161 | Maximum Level Sum of a Binary Tree | 0 | Binary Tree, BFS, DFS | <span style="color:#f39c12"><b>Medium</b></span> |
 | 1244 | Design A Leaderboard | 0 | Hash Table, Heap(Priority Queue), TreeMap | <span style="color:#f39c12"><b>Medium</b></span> |
 | 1283 | Find the Smallest Divisor Given a Threshold | 1 | Array, Binary Search | <span style="color:#f39c12"><b>Medium</b></span> |
+| 1288 | Remove Covered Intervals | 1 | Array, Sorting | <span style="color:#f39c12"><b>Medium</b></span> |
 | 1320 | Minimum Distance to Type a Word Using Two Fingers | 1 | Dynamic Programming | <span style="color:#e74c3c"><b>Hard</b></span> |
 | 1339 | Maximum Product of Splitted Binary Tree | 0 | Bit Manipulation, Binary Tree, DFS | <span style="color:#f39c12"><b>Medium</b></span> |
 | 1344 | Angle Between Hands of a Clock | 0 | Math | <span style="color:#f39c12"><b>Medium</b></span> |
