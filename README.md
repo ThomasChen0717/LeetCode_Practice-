@@ -31,6 +31,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 33 | Search in Rotated Sorted Array | 1 | Array, Binary Search | <span style="color:#f39c12"><b>Medium</b></span> |
 | 34 | Find First and Last Position of Element in Sorted Array | 1 | Array, Binary Search | <span style="color:#f39c12"><b>Medium</b></span> |
 | 40 | Combination Sum II | 1 | Array, Backtracking | <span style="color:#f39c12"><b>Medium</b></span> |
+| 41 | First Missing Positive | 1 | Array, Simulating HashSet | <span style="color:#e74c3c"><b>Hard</b></span> |
 | 42 | Trapping Rain Water | 1 | Array, Two Pointers, Dynamic Programming, Stack | <span style="color:#e74c3c"><b>Hard</b></span> |
 | 45 | Jump Game II | 1 | Array, Dynamic Programming, Greedy | <span style="color:#f39c12"><b>Medium</b></span> |
 | 46 | Permutations | 0 | Array, Backtracking | <span style="color:#f39c12"><b>Medium</b></span> |
@@ -40,7 +41,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 53 | Maximum Subarray | 1 | Array, Dynamic Programming, Divide and Conquer | <span style="color:#f39c12"><b>Medium</b></span> |
 | 54 | Spiral Matrix | 1 | Matrix, DFS | <span style="color:#f39c12"><b>Medium</b></span> |
 | 55 | Jump Game | 1 | Array, Dynamic Programming, Greedy | <span style="color:#f39c12"><b>Medium</b></span> |
-| 56 | Merge Intervals | 1 | Array, Sorting, Graph | <span style="color:#f39c12"><b>Medium</b></span> |
+| 56 | Merge Intervals | 2 | Array, Sorting, Graph | <span style="color:#f39c12"><b>Medium</b></span> |
 | 57 | Insert Interval | 1 | Array, Sorting | <span style="color:#f39c12"><b>Medium</b></span> |
 | 63 | Unique Paths II | 1 | Array, Dynamic Programming | <span style="color:#f39c12"><b>Medium</b></span> |
 | 64 | Minimum Path Sum | 1 | Array, Dynamic Programming | <span style="color:#f39c12"><b>Medium</b></span> |
@@ -51,6 +52,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 71 | Simplify Path | 1 | String, Stack | <span style="color:#f39c12"><b>Medium</b></span> |
 | 72 | Edit Distance | 0 | String, Dynamic Programming, Recursion | <span style="color:#e74c3c"><b>Hard</b></span> |
 | 75 | Sort Colors | 0 | Array, Sorting, Three Pointers | <span style="color:#f39c12"><b>Medium</b></span> |
+| 76 | Minimum Window Substring | 1 | String, Sliding Window, HashMap | <span style="color:#e74c3c"><b>Hard</b></span> |
 | 78 | Subsets | 1 | Array, Backtracking, Bitmasking | <span style="color:#f39c12"><b>Medium</b></span> |
 | 81 | Search in Rotated Sorted Array II | 1 | Array, Binary Search | <span style="color:#f39c12"><b>Medium</b></span> |
 | 84 | Largest Rectangle in Histogram | 0 | Array, Stack | <span style="color:#e74c3c"><b>Hard</b></span> |
@@ -74,7 +76,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 169 | Majority Element | 0 | Array, Hash Table, Counting, Bit Manipulation | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 179 | Largest Number | 1 | Array, Sorting | <span style="color:#f39c12"><b>Medium</b></span> |
 | 188 | Best Time to Buy and Sell Stock IV | 1 | Array, Dynamic Programming | <span style="color:#e74c3c"><b>Hard</b></span> |
-| 189 | Rotate Array | 1 | Array, Math, Two Pointers | <span style="color:#f39c12"><b>Medium</b></span> |
+| 189 | Rotate Array | 2 | Array, Math, Two Pointers | <span style="color:#f39c12"><b>Medium</b></span> |
 | 190 | Reverse Bits | 1 | Bit Manipulation | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 198 | House Robber | 1 | Dynamic Programming, Recursion, Memoization | <span style="color:#f39c12"><b>Medium</b></span> |
 | 200 | Number of Islands | 1 | Graph, DFS, BFS, Union Find | <span style="color:#f39c12"><b>Medium</b></span> |
@@ -85,7 +87,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 215 | Kth Largest Element in an Array | 1 | Array, Sorting, Quick Select, Counting Sort | <span style="color:#f39c12"><b>Medium</b></span> |
 | 221 | Maximal Square | 1 | Array, Dynamic Programming, Matrix | <span style="color:#f39c12"><b>Medium</b></span> |
 | 236 | Lowest Common Ancestor of a Binary Tree | 0 | Binary Tree, DFS | <span style="color:#f39c12"><b>Medium</b></span> |
-| 238 | Product of Array Except Self | 1 | Array, Prefix Sum | <span style="color:#f39c12"><b>Medium</b></span> |
+| 238 | Product of Array Except Self | 2 | Array, Prefix Sum | <span style="color:#f39c12"><b>Medium</b></span> |
 | 239 | Sliding Window Maximum | 1 | Queue, Array, Sliding Window, Monotonic Queue, Stack(Priority Queue) | <span style="color:#e74c3c"><b>Hard</b></span> |
 | 242 | Valid Anagram | 1 | String, Sorting, Hash Table | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 249 | Group Shifted Strings | 1 | String, Hash Map | <span style="color:#f39c12"><b>Medium</b></span> |
@@ -161,6 +163,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 3742 | Maximum Path Score in a Grid | 1 | Array, Dynamic Programming, Memoization | <span style="color:#e74c3c"><b>Hard</b></span> |
 | 3751 | Total Waviness of Numbers in Range I | 1 | Math, Enumeration | <span style="color:#f39c12"><b>Medium</b></span> |
 | 3753 | Total Waviness of Numbers in Range II | 1 | Math, Enumeration | <span style="color:#f39c12"><b>Medium</b></span> |
+| 3754 | Concatenate Non-Zero Digits and Multiply by Sum | 1 | Math, Enumeration | <span style="color:#2ecc71"><b>Easy</b></span> |
 
 
 
