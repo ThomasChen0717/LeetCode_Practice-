@@ -51,6 +51,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 70 | Climbing Stairs | 0 | Dynamic Programming, Fibonacci Number | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 71 | Simplify Path | 1 | String, Stack | <span style="color:#f39c12"><b>Medium</b></span> |
 | 72 | Edit Distance | 0 | String, Dynamic Programming, Recursion | <span style="color:#e74c3c"><b>Hard</b></span> |
+| 73 | Set Matrix Zeroes | 1 | Array, Matrix | <span style="color:#f39c12"><b>Medium</b></span> |
 | 75 | Sort Colors | 0 | Array, Sorting, Three Pointers | <span style="color:#f39c12"><b>Medium</b></span> |
 | 76 | Minimum Window Substring | 1 | String, Sliding Window, HashMap | <span style="color:#e74c3c"><b>Hard</b></span> |
 | 78 | Subsets | 1 | Array, Backtracking, Bitmasking | <span style="color:#f39c12"><b>Medium</b></span> |
@@ -153,6 +154,7 @@ Two Pointers, Dynamic Programming). Topic overlap is documented explicitly in ea
 | 3074 | Apple Redistribution into Boxes | 0 | Array, Greedy | <span style="color:#2ecc71"><b>Easy</b></span> |
 | 3286 | Find a Safe Walk Through a Grid | 1 | Array, Matrix, BFS | <span style="color:#f39c12"><b>Medium</b></span> |
 | 3453 | Separate Squares I | 1 | Array, Math, Sorting, Binary Search, Scan Line | <span style="color:#f39c12"><b>Medium</b></span> |
+| 3534 | Path Existence Queries in a Graph | 1 | Graph, Binary Lifting | <span style="color:#e74c3c"><b>Hard</b></span> |
 | 3614 | Process String With Special Operations II | 1 | String, Simulation, Stack, Two Pointers | <span style="color:#f39c12"><b>Hard</b></span> |
 | 3620 | Network Recovery Pathways | 1 | Graph, Dijkstra's Algorithm | <span style="color:#f39c12"><b>Medium</b></span> |
 | 3633 | Earliest Finish Time for Land and Water Rides I | 1 | Array, Math, Sorting, Binary Search, Scan Line | <span style="color:#f39c12"><b>Medium</b></span> |
